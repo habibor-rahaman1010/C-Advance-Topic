@@ -1,0 +1,10 @@
+Roll 7: 78 
+Roll 9: 87 
+Roll 1: 56 
+Roll 6: 43 
+Roll 11: 67 
+Roll 13: 89 
+Roll 19: 65 
+Roll 20: 98 
+Roll 2: 72 
+Roll 10: 100 

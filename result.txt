@@ -1,0 +1,10 @@
+Roll 7: math = 78, bangla = 67, english = 65 
+Roll 9: math = 87, bangla = 89, english = 98 
+Roll 1: math = 56, bangla = 65, english = 72 
+Roll 6: math = 43, bangla = 98, english = 100 
+Roll 11: math = 67, bangla = 72, english = 78 
+Roll 13: math = 89, bangla = 100, english = 87 
+Roll 19: math = 65, bangla = 78, english = 56 
+Roll 20: math = 98, bangla = 87, english = 43 
+Roll 2: math = 72, bangla = 56, english = 67 
+Roll 10: math = 100, bangla = 43, english = 89 
