@@ -20,7 +20,7 @@ int main() {
     printf("Enter the value of n: ");
     scanf("%d", &n);
 
-    if(n < 0){
+    if(n <= 0){
         printf("Undefined!");
         return 0;
     }
